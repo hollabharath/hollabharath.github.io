@@ -1,0 +1,192 @@
+{
+  "basics": {
+    "name": "Bharath Holla",
+    "label": "Associate Professor of Psychiatry",
+    "image": "",
+    "email": "hollabharath[AT]nimhans.ac.in",
+    "phone": "",
+    "url": "",
+    "summary": "Dr. Holla is an Associate Professor of psychiatry at the National Institute of Mental Health and Neuro-Sciences (NIMHANS), Bengaluru, India. He completed postgraduate residency in psychiatry (2014) and post-doctoral fellowship in addiction medicine (2015) at NIMHANS. He received Wellcome-DBT India Alliance Clinical & Public Health Research Training Fellowship (2015-2018) and obtained his PhD in 2022 for his work on bridging Brain Imaging and Genetics of Addiction Vulnerability",
+    "location": {
+      "address": "Dept of Integrative Medicine, NIMHANS",
+      "postalCode": "560029",
+      "city": "Bengaluru",
+      "countryCode": "IN",
+      "region": "Karnataka"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "hollabharath",
+        "url": "https://twitter.com/hollabharath"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "NIMHANS, Bengaluru, India",
+      "position": "Senior Resident and Clinical Post-Doctoral Fellow in Centre for Addiction Medicine, Dept. of Psychiatry",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "NIMHANS, Bengaluru, India",
+      "position": "Senior Resident and PhD Scholar, Wellcome Trust / DBT India Alliance Research Training Fellow, Dept. of Psychiatry",
+      "startDate": "2015",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "NIMHANS, Bengaluru, India",
+      "position": "Assistant Professor of Psychiatry, Clinician Scientist, Accelerator Program for Discovery in Brain Disorders Using Stem Cells (ADBS)",
+      "startDate": "2017",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "NIMHANS, Bengaluru, India",
+      "position": "Assistant Professor of Psychiatry, Department of Integrative Medicine",
+      "startDate": "2019",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "NIMHANS, Bengaluru, India",
+      "position": "Associate Professor of Psychiatry, Department of Integrative Medicine",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Bangalore Medical College and Research Institute, Bengaluru, KA, India",
+      "url": "",
+      "area": "Medicine",
+      "studyType": "M.B., B.S.",
+      "startDate": "2004",
+      "endDate": "2010",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "National Institute of Mental Health and Neurosciences, Bengaluru, KA, India",
+      "url": "",
+      "area": "Psychiatry",
+      "studyType": "M.D.",
+      "startDate": "2011",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "National Institute of Mental Health and Neurosciences, Bengaluru, KA, India",
+      "url": "",
+      "area": "Addiction Psychiatry",
+      "studyType": "Post-Doctoral Fellowship",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "National Institute of Mental Health and Neurosciences, Bengaluru, KA, India",
+      "url": "",
+      "area": "Psychiatry, Brain Imaging and Genomics",
+      "studyType": "Ph.D.",
+      "startDate": "2017",
+      "endDate": "2022",
+      "score": "",
+      "courses": []
+    }
+  ],
+"awards": [
+    {
+      "title": "Young Physician Leader",
+      "date": "2022",
+      "awarder": "InterAcademy Partnership (IAP)",
+      "summary": "Funding Scholarship Award to attend the Young Physician Leaders (YPL) Programme at European School of Management and Technology, Berlin, Germany"
+    },
+    {
+      "title": "INSA Medal for Young Scientists",
+      "date": "2021",
+      "awarder": "Indian National Science Academy, New Delhi",
+      "summary": ""
+    },
+    {
+      "title": "Early Career Investigator Award",
+      "date": "2021",
+      "awarder": "International Society of Psychiatric Genetics",
+      "summary": "Awarded at the Virtual World Congress of Psychiatry Genetics."
+    },
+    {
+      "title": "Poona Psychiatrists Association Award (PPA-II)",
+      "date": "2020",
+      "awarder": "Indian Psychiatric Society",
+      "summary": "Awarded for the best-published article by an IPS member at the 72nd Annual National Conference of Indian Psychiatric Society."
+    },
+    {
+      "title": "Funding Scholarship Award by University of Bristol, UK",
+      "date": "2019",
+      "awarder": "University of Bristol, UK",
+      "summary": "Awarded to attend Mental health intergenerational transmission: Epidemiological methods for global mental health research workshop, Negombo, SL."
+    },
+    {
+      "title": "Poona Psychiatrists Association Award (PPA-II)",
+      "date": "2019",
+      "awarder": "Indian Psychiatric Society",
+      "summary": "Awarded for the best-published article by an IPS member at the 71st Annual National Conference of Indian Psychiatric Society."
+    },
+    {
+      "title": "Junior Investigator Merit Award",
+      "date": "2018",
+      "awarder": "Research Society on Alcoholism",
+      "summary": "Awarded at the 41st Annual Scientific Meeting, San Diego, USA."
+    },
+    {
+      "title": "International Society for Magnetic Resonance in Medicine - Educational Stipend",
+      "date": "2017",
+      "awarder": "International Society for Magnetic Resonance in Medicine",
+      "summary": "Awarded at the 25th Annual Meeting of the ISMRM, Honolulu, HI USA."
+    },
+    {
+      "title": "Wellcome Trust / DBT India Alliance Research Training Fellowship Grant Award",
+      "date": "2015",
+      "awarder": "Wellcome Trust / DBT India Alliance",
+      "summary": ""
+    },
+    {
+      "title": "ISBRA International Travel Award",
+      "date": "2014",
+      "awarder": "International Society for Biomedical Research on Alcoholism",
+      "summary": "Awarded at 37th Annual RSA Scientific Meeting and 17th Congress of ISBRA, Bellevue, Washington, USA."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Kannada",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
