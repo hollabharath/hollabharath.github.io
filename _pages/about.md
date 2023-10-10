@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru</a>
+subtitle: <a href='#'>Associate Professor of Psychiatry, Integrative Medicine,<br>National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru</a>
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Associate Professor of Psychiatry</p>
-    <p>Integrative Medicine, NIMHANS</p>
-    <p>Bengaluru, 560029</p>
 
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,9 +16,9 @@ social: true  # includes social icons at the bottom of the page
 news: true  # includes a list of news items
 ---
 
-With an MD, PhD, his professional pursuits span patient care, research, and post-graduate training in psychiatry. 
+Specializing in psychiatry with both an MD and a PhD, Dr. Holla contributes to patient care, research, and post-graduate education in the field.
 
-After his postgraduate residency in psychiatry, Dr. Holla specialized in addiction psychiatry through a post-doctoral clinical fellowship at NIMHANS. His PhD research honed in on the imaging-genomics of addiction vulnerability in adolescents.
+He completed his postgraduate residency in psychiatry and further specialized in addiction psychiatry during a post-doctoral clinical fellowship at NIMHANS, Bengaluru, India. His PhD research focused on using imaging-genomics to understand addiction vulnerability in adolescents.
 
 His research interests include:
   - _Biological Psychiatry_, 
@@ -31,15 +28,15 @@ His research interests include:
   - _Neuroimaging_,  
   - _Genetics_.
 
-Dr. Holla is actively involved as an investigator in several deep phenotyping neuroscience research in India, including 
+As a co-investigator, Dr. Holla contributes to several neuroscience research initiatives in India, such as:
   - The Consortium on the Vulnerability to Externalizing Disorders and Addictions (c-VEDA) [cveda-project.org], 
   - Pathways to Resilience and Mental Health (PARAM), 
   - Accelerator program for Discovery in Brain disorders using Stem cells (ADBS) [adbsnimhans.org],  
   - The Centre for Brain and Mind (CBM)
   - Yoga and Ayurveda in Neuroscience - Translational Research Accelerator Programme (YANTRA) 
 
-He strongly advocates for the advancement of neuroscience and psychiatry through open-science and multi-disciplinary collaborations. 
+Dr. Holla advocates strongly for open-science initiatives and multi-disciplinary collaborations to advance neuroscience and psychiatry.
 
-His engagement in numerous multi-institutional and international population neuroscience projects has culminated in high-impact research publications and meaningful contributions to the community.
+His involvement in multiple multi-institutional and international population neuroscience projects has led to high-impact research publications and significant contributions to the community.
 
-He is keen on forging novel treatment modalities for psychiatric disorders and incorporating traditional approaches like Yoga and Ayurveda for holistic well-being. 
+Dr. Holla is committed to innovating new treatment methodologies for psychiatric disorders while also incorporating traditional approaches, such as Yoga and Ayurveda, into patient care for holistic well-being.

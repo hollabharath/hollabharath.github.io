@@ -162,8 +162,12 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
-
+  width: 30%;
+  
+  img {  
+    width: 100px; 
+    height: auto;
+  }
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
